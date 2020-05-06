@@ -21,12 +21,18 @@ To show my relatives what this event planner is capable of.
 # HEADER:
 ## Features
 
-The pictures are categorised
+### The pictures are categorised
 1. ### Each picture category has a slide that show the other pictures in the same category
 2. ### User can see what kind of event have been done 
 3. ### User can contact the event planner
 4. ### User can check prices by contacting through email
 5. ### User can see many different picutres of previous events
+
+- ## To be implemented Features
+- #### Event callender where the user can see the available date to be booked
+- #### The callender will show uppcoming event's in date and time
+- #### An `icon` that will reffer to partners of this website
+- #### A new tab that will tell `About Us` page 
 ---
 # FOOTER
 ## Social Media:
