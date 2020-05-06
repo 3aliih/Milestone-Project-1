@@ -47,7 +47,7 @@ to show my relatives what this event planner is capable of.
 ### **2.**  The user can compare the pictures of even't with other even planners
 ### **3.**  The important of the pictures gives the user an overal idea of what can be done.
 ---
-# ONTACT US: 
+# CONTACT US: 
  - ### Html form with fields `name` and `email` allowing a client to book the planner.
  - ### In the Html form there is a `text` box where the User can write to the planner.
  ---
