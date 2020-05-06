@@ -1,21 +1,23 @@
 # MilestoneProject-1
+---
 ## User Stories:
 
- 1. As a User
+1. ### As a User
 I want to book an event planner
 So that i can discuss the details of an event that i want to plan.
 
-2. As a User
+2. ### As a User
 I want to see what kind of event have been done
 So that i can see if this event planner is the right one for my event.
 
-3. As a User
+3. ### As a User
 I want to contact the event planner
 To check what date they are available to be booked and price checking.
 
-4. As a user
+4. ### As a user
 I want to show the pictures in this website
 To show my relatives what this event planner is capable of.
+
 ---
 
 # HEADER:
@@ -49,3 +51,24 @@ To show my relatives what this event planner is capable of.
  - ### Html form with fields `name` and `email` allowing a client to book the planner.
  - ### In the Html form there is a `text` box where the User can write to the planner.
  ---
+ 
+ ### Wireframe Features
+ 1. #### The Event Planner logo
+ 2. #### Welcoming the User to this website: `Welcome  to Emire.A Event Planner`
+ 3. #### An image under the welcoming text
+ 4. #### Text that say `Latest Events`
+ 5. #### Six picture categories that have slides showing more pictures on each categori
+ 6. #### A contact us form where the user writes their `name` and `email`and a `text`
+ 7. #### A text that says: `Follow us on social media!`
+ 8. #### Social media icons of `Facebook`, `Instagram`, `Twitter`, `Youtube`  
+ 
+ 
+ ### Wireframe Desktop 
+ <img src="Wireframe/Emir.A-image-1.png" width="400">
+ 
+ ---
+ 
+ ### Wireframe Mobile
+ <img src="Wireframe/Emir.A-android-image-2.png" width="400">
+ 
+ 
