@@ -54,7 +54,7 @@ to show my relatives what this event planner is capable of.
  
  ### Wireframe Features
  ### **1.** The Event Planner logo
- ### **2.** Welcoming the User to this website: `Welcome  to Emire.A Event Planner`
+ ### **2.** Welcoming the User to this website: `Welcome to Emir Event Planner`
  ### **3.** An image under the welcoming text
  ### **4.** Text that say `Latest Events`
  ### **5.** Six picture categories that have slides showing more pictures on each categori
