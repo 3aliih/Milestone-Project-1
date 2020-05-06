@@ -3,19 +3,19 @@
 ## User Stories:
 
 ### **1.** As a User
-I want to book an event planner, 
+- I want to book an event planner, 
 so that i can discuss the details of an event that i want to plan.
 
 ### **2.** As a User
-I want to see what kind of event have been done, 
+- I want to see what kind of event have been done, 
 so that i can see if this event planner is the right one for my event.
 
 ### **3.** As a User
-I want to contact the event planner, 
+- I want to contact the event planner, 
 to check what date they are available to be booked and price checking.
 
 ### **4.** As a user
-I want to show the pictures in this website, 
+- I want to show the pictures in this website, 
 to show my relatives what this event planner is capable of.
 
 ---
