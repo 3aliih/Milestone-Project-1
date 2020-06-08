@@ -7,7 +7,7 @@
 div {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: top;
   font-weight: bold;
   font-family: 'Robot', sans-serif ;
   width: 100%;
@@ -15,16 +15,18 @@ div {
 }
 
 h2{
-  font-size: 60px;
-  background: #eee;
+  font-size: 30px;
+  background: rgb(230, 107, 107);
   padding: 8px 24px;
   border-radius: 16px;
+  
 }
 
 div:nth-child(1){
   background-image: url(../images/front.jpg);
   background-attachment: fixed;
   background-color: cover;
+  
 }
 
 div:nth-child(2){
