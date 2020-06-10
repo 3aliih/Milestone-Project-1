@@ -37,10 +37,11 @@ h1{
   margin-right: -3px;
   font-weight: 100;
   text-transform: unset ;
-  background: linear-gradient(90deg, #c8f403, #cf75a8, #ffeb3b, #4fa1c7);
+  background: linear-gradient(90deg,  #c8f403, #a6affc, #c7be72, #72eff3);
   animation: animate 8s linear infinite;
   transition: 0.5s;
   border-radius: 30px;
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
 }
 
 h1:hover{
@@ -63,7 +64,7 @@ h1:before{
   right: -5px;
   bottom: -5px;
   z-index: -1;
-  background: linear-gradient(90deg, #c8f403, #cf75a8, #ffeb3b, #4fa1c7);
+  background: linear-gradient(90deg, #a03131, #c8f403, #2fabb4, #a03131);
   background-size: 400%;
   border-radius: 40px;
   opacity: 0;
@@ -267,3 +268,5 @@ div:nth-child(4){
   background-image: url(../images/contact.jpg);
   background-attachment: fixed;
   background-color: cover;
+}
+
